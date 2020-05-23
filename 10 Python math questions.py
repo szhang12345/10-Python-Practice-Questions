@@ -168,3 +168,9 @@ while 1:
     elif len(arr) == 0:
         print('no word starting with %s' % inp)
         inp = ''
+        
+        
+      import itertools
+    temp_arr = list(itertools.permutations([1, 2, 3, 4], 3)) # 排列  # A_4^3 = (4)!/(4-3)! = (4*3*2*1)/1 = 24
+    arr = [100*t[0]+10*t[1]+t[2] for t in temp_arr]
+    print(len(arr),arr)
