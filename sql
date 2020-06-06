@@ -4,5 +4,4 @@ FROM (SELECT NULL as fruit UNION ALL
       SELECT "apple" as fruit UNION ALL
       SELECT "pear" as fruit UNION ALL
       SELECT "orange" as fruit)
-sub query
-
+sel
