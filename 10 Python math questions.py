@@ -3,7 +3,7 @@ Q1：Fibonacci Sequence
 '''
 
 
-def Q1():
+
     l = [0, 1]
 
 
