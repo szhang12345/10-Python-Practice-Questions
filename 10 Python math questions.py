@@ -1,6 +1,4 @@
-'''
-Q1：Fibonacci Sequence
-'''
+1•
 
 
 
